@@ -1,88 +1,106 @@
-# 👋 Hi, I'm Ramesh Kumar
+# 👋 Hey, I'm Ramesh Kumar
 
-### BCA Student | Frontend Developer | Problem Solver
+### 💻 BCA Student | Frontend Developer | Future Full-Stack Developer
 
-I'm a BCA student passionate about building modern and useful web applications.
+I’m a BCA student passionate about web development and learning modern technologies to build useful and interactive applications.
 
-💻 Currently learning React.js and Full-Stack Development  
-🚀 Building real-world projects  
-🌱 Improving my JavaScript and problem-solving skills  
-🎯 Looking for internship opportunities
-
----
-
-## 🧑‍💻 About Me
-
-- 🎓 BCA Student
-- 💡 Interested in Web Development
-- ⚛️ Learning React.js
-- 🔧 Exploring Full-Stack Development
-- 🚀 I like building projects that solve real problems
-- 📍 India
+* 🎓 Currently pursuing BCA
+* 🌱 Currently learning **JavaScript & React.js**
+* 💻 Interested in **Frontend & Full-Stack Development**
+* 🧠 Improving problem-solving and development skills
+* 🚀 Exploring new technologies every day
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠️ Tech Stack
 
-### Languages
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+### 💻 Programming Languages
 
-### Web Development
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+<p>
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,js" />
+</p>
 
-### Database & Tools
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+### 🌐 Frontend Development
 
----
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,react" />
+</p>
 
-## 🚀 Featured Projects
+### ⚙️ Backend & APIs
 
-### 🔧 ServiceConnect
-A platform connecting customers with local service professionals.
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
 
-**Tech:** HTML • CSS • JavaScript • React • Node.js • MySQL
+### 🗄️ Database
 
-[View Project](#) • [Live Demo](#)
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+</p>
 
----
+### 🔧 Tools & Technologies
 
-### 🤖 AI Study Assistant
-A web application that helps students organize notes, generate summaries and prepare for exams.
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,apache" />
+</p>
 
-**Tech:** React • JavaScript • API
+### 🎨 Design
 
-[View Project](#) • [Live Demo](#)
-
----
-
-### 💼 Internship Finder
-A platform designed to help students discover internship opportunities.
-
-**Tech:** React • Node.js • MySQL
-
-[View Project](#) • [Live Demo](#)
+<p>
+<img src="https://skillicons.dev/icons?i=figma" />
+</p>
 
 ---
 
-## 🌱 Currently Learning
+# 🌱 Currently Learning
 
-```text
-JavaScript
-   ↓
-React.js
-   ↓
-Node.js + Express
-   ↓
-REST APIs
-   ↓
-MySQL / MongoDB
-   ↓
-Full-Stack Development
+<p align="center">
+
+`JavaScript` → `React.js` → `Node.js` → `Express.js` → `REST APIs` → `Full-Stack Development`
+
+</p>
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=rameshkumar1806&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rameshkumar1806&theme=tokyonight&hide_border=true" width="48%" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rameshkumar1806&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+# 🐍 Contribution Journey
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+# 🤝 Connect With Me
+
+<p align="center">
+
+<a href="https://linkedin.com/in/rameshkumar-suthar-029a92345">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:rameshkumarsuthar2006@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
+</a>
+
+<a href="https://instagram.com/rameshsuthar_19">
+<img src="https://img.shields.io/badge/Instagram-Follow-purple?style=for-the-badge&logo=instagram"/>
+</a>
+
+</p>
+
+---
+
+### 💡 Build • Learn • Improve • Repeat
